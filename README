@@ -1,0 +1,7 @@
+This is a python (.py) file. 
+To run this in VS Code, first you need to install opencv python.
+To do this, go to the terminal.
+Within the terminal, type-in: pip install opencv-python
+Once cv2 has been installed, the code is ready to be executed.
+Press the key 'q' once to exit face detetction.
+Thank You!
